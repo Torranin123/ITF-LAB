@@ -1,3 +1,3 @@
 # ITF-Lab 2018
 ## Author
-นาย ธรณินทร์ บุญโล่งศิริเจริญ 61070299
+Torranin Boonlongsiricharoen 61070299
